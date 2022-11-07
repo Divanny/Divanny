@@ -18,9 +18,6 @@ Hi 👋, I'm Divanny Pérez<br>A passionated software developer from Dominican R
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Divanny&icon=0&color=0)](https://visitcount.itsvg.in)
 
