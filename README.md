@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Divanny Pérez<br>A passionated software developer from Dominican Republic 🇩🇴<br><br>- 🔭 I’m currently working on [Mencia Foundation](https://fundacionmencia.fund/)<br><br>- 🌱 I’m currently learning **JavaScript, React.**<br><br>- 👨‍💻 All of my projects are available at [https://divanny.github.io/](https://divanny.github.io/)<br><br>- 📫 How to reach me **divannyjpm@gmail.com**
+Hi 👋, I'm Divanny Pérez<br>A passionated software developer from Dominican Republic 🇩🇴<br><br>- 🔭 I’m currently working on Contraloría General de la República Dominicana as a Developer.<br><br>- 🌱 I’m currently learning **JavaScript, React.**<br><br>- 👨‍💻 All of my projects are available at [https://divanny.github.io/](https://divanny.github.io/)<br><br>- 📫 How to reach me **divannyjpm@gmail.com**
 
 
 ## 🌐 Socials:
